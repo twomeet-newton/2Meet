@@ -4,7 +4,7 @@
 
 ### Grupo:
 
-Cleuvin Santos Evangelista
-Guilherme Teixeira de Miranda
-Marcelo Braga Basílio
-Pedro Henrique Garcia dos Santos
+* Cleuvin Santos Evangelista
+* Guilherme Teixeira de Miranda
+* Marcelo Braga Basílio
+* Pedro Henrique Garcia dos Santos
